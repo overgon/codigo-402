@@ -13,3 +13,6 @@ Código 402: Agentes que pagan
 - Tope por pago: $0.02. Lo que lo excede se rechaza sin transacción.
 - Pago del agente a mi API: 7b7565eea7b793ff21f46c4a2bb5ac2f8d703f6963a8e175b0a6e17befee6431
 - Verlo: https://stellar.expert/explorer/testnet/tx/7b7565eea7b793ff21f46c4a2bb5ac2f8d703f6963a8e175b0a6e17befee6431
+
+## Mi verificador
+- Pago que verifiqué con RPC: 657727da74167805b0cd2133821816db0dd92fd329e1a06d790b0dace2bb00cf
