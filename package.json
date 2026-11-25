@@ -12,7 +12,8 @@
     "agente-wallet": "node --env-file=.env crear-agente.js",
     "agente": "node --env-file=.env agente.js",
     "verificar": "node --env-file=.env verificar.js",
-    "test": "node --env-file=.env --test"
+    "test": "node --env-file-if-exists=.env --test",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
